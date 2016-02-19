@@ -1,0 +1,30 @@
+﻿{
+	"Stroopwafels" : {
+		"model":"shop",
+		"price": 160.0,
+		"products": {
+			"stroopwafels": {
+				"model":"stroopwafel",
+				"price": 1.5,
+				"type" : "consumable",
+				"temprature" : "hot",
+                "hand" : "left",
+				"consumeanimation" : "generic", 
+				"portions" : 10,
+				"ingredients": {
+					"caramel" :{
+					 "price": 1.0,
+					 "amount" : 1.0,
+					"tweakable" : true,
+					"effects": [
+					{
+						"affectStat" : "hunger",
+						"amount" : -.4
+					}]
+						
+					}
+				}
+			}
+		}
+	}
+}

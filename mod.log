@@ -1,0 +1,64 @@
+[16-02-19 18:10:11] Info: Compiling Shop Template to bin/build-160219181011261.dll...
+[16-02-19 18:10:11] Info: Compiling from `CustomShops.csproj`.
+[16-02-19 18:10:11] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
+[16-02-19 18:10:11] Info: IGNORING assembly reference `Microsoft.CSharp`
+[16-02-19 18:10:11] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-19 18:10:11] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-19 18:10:11] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-19 18:10:11] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-19 18:10:11] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-19 18:10:11] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-19 18:10:11] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
+[16-02-19 18:10:11] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
+[16-02-19 18:10:11] Info: Source files: Main.cs, CustomShopLoader.cs, Shop\ShopInstance.cs, Shop\WerableProductInstance.cs, Shop\Decorator\IDecorator.cs, Shop\Decorator\PriceDecorator.cs, Shop\Decorator\NameDecorator.cs, Shop\ConsumableProductInstance.cs, Shop\Decorator\Product\ProductDecorator.cs, Shop\Decorator\Product\WerableProductDecorator.cs, Shop\Decorator\Product\ConsumableProductDecorator.cs, Shop\Decorator\ShopSettingsDecorator.cs, Shop\Decorator\Product\OnGoingProductDecorator.cs, Shop\OngoingEffectProductInstance.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Stroopwafels`.
+[16-02-19 18:10:22] Info: Loaded build-160219181011261, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-19 18:10:22] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-19 18:19:15] Info: Compiling Shop Template to bin/build-160219181915982.dll...
+[16-02-19 18:19:15] Info: Compiling from `CustomShops.csproj`.
+[16-02-19 18:19:15] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
+[16-02-19 18:19:15] Info: IGNORING assembly reference `Microsoft.CSharp`
+[16-02-19 18:19:15] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-19 18:19:15] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-19 18:19:15] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-19 18:19:15] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-19 18:19:15] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-19 18:19:15] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-19 18:19:15] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
+[16-02-19 18:19:15] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
+[16-02-19 18:19:15] Info: Source files: Main.cs, CustomShopLoader.cs, Shop\ShopInstance.cs, Shop\WerableProductInstance.cs, Shop\Decorator\IDecorator.cs, Shop\Decorator\PriceDecorator.cs, Shop\Decorator\NameDecorator.cs, Shop\ConsumableProductInstance.cs, Shop\Decorator\Product\ProductDecorator.cs, Shop\Decorator\Product\WerableProductDecorator.cs, Shop\Decorator\Product\ConsumableProductDecorator.cs, Shop\Decorator\ShopSettingsDecorator.cs, Shop\Decorator\Product\OnGoingProductDecorator.cs, Shop\OngoingEffectProductInstance.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Stroopwafels`.
+[16-02-19 18:19:20] Info: Loaded build-160219181915982, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-19 18:19:20] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-19 18:24:50] Info: Compiling Shop Template to bin/build-160219182450665.dll...
+[16-02-19 18:24:50] Info: Compiling from `CustomShops.csproj`.
+[16-02-19 18:24:50] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
+[16-02-19 18:24:50] Info: IGNORING assembly reference `Microsoft.CSharp`
+[16-02-19 18:24:50] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-19 18:24:50] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-19 18:24:50] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-19 18:24:50] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-19 18:24:50] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-19 18:24:50] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-19 18:24:50] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
+[16-02-19 18:24:50] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
+[16-02-19 18:24:50] Info: Source files: Main.cs, CustomShopLoader.cs, Shop\ShopInstance.cs, Shop\WerableProductInstance.cs, Shop\Decorator\IDecorator.cs, Shop\Decorator\PriceDecorator.cs, Shop\Decorator\NameDecorator.cs, Shop\ConsumableProductInstance.cs, Shop\Decorator\Product\ProductDecorator.cs, Shop\Decorator\Product\WerableProductDecorator.cs, Shop\Decorator\Product\ConsumableProductDecorator.cs, Shop\Decorator\ShopSettingsDecorator.cs, Shop\Decorator\Product\OnGoingProductDecorator.cs, Shop\OngoingEffectProductInstance.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Stroopwafels`.
+[16-02-19 18:24:56] Info: Loaded build-160219182450665, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-19 18:24:56] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-19 18:29:43] Info: Loaded build-160219182450665, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-19 18:29:43] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-19 18:31:43] Info: Loaded build-160219182450665, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-19 18:31:43] Info: Sucessfully registered CustomShops.Main to the mod manager.
+[16-02-19 18:37:38] Info: Compiling Shop Template to bin/build-160219183738653.dll...
+[16-02-19 18:37:38] Info: Compiling from `CustomShops.csproj`.
+[16-02-19 18:37:38] Info: Resolved assembly reference `Assembly-CSharp` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/Assembly-CSharp.dll`
+[16-02-19 18:37:38] Info: IGNORING assembly reference `Microsoft.CSharp`
+[16-02-19 18:37:38] Info: Resolved assembly reference `System` to `System.dll`
+[16-02-19 18:37:38] Info: Resolved assembly reference `System.Core` to `System.Core.dll`
+[16-02-19 18:37:38] Info: Resolved assembly reference `System.Data` to `System.Data.dll`
+[16-02-19 18:37:38] Info: Resolved assembly reference `System.Data.DataSetExtensions` to `System.Data.DataSetExtensions.dll`
+[16-02-19 18:37:38] Info: Resolved assembly reference `System.Xml` to `System.Xml.dll`
+[16-02-19 18:37:38] Info: Resolved assembly reference `System.Xml.Linq` to `System.Xml.Linq.dll`
+[16-02-19 18:37:38] Info: Resolved assembly reference `UnityEngine` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.dll`
+[16-02-19 18:37:38] Info: Resolved assembly reference `UnityEngine.UI` to `/Applications/Parkitect.app/Contents/Resources/Data/Managed/UnityEngine.UI.dll`
+[16-02-19 18:37:38] Info: Source files: Main.cs, CustomShopLoader.cs, Shop\ShopInstance.cs, Shop\WerableProductInstance.cs, Shop\Decorator\IDecorator.cs, Shop\Decorator\PriceDecorator.cs, Shop\Decorator\NameDecorator.cs, Shop\ConsumableProductInstance.cs, Shop\Decorator\Product\ProductDecorator.cs, Shop\Decorator\Product\WerableProductDecorator.cs, Shop\Decorator\Product\ConsumableProductDecorator.cs, Shop\Decorator\ShopSettingsDecorator.cs, Shop\Decorator\Product\OnGoingProductDecorator.cs, Shop\OngoingEffectProductInstance.cs from `/Users/ThijsWittendorp/Library/Application Support/Parkitect/pnmods/Stroopwafels`.
+[16-02-19 18:37:42] Info: Loaded build-160219183738653, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null.
+[16-02-19 18:37:42] Info: Sucessfully registered CustomShops.Main to the mod manager.
