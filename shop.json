@@ -3,7 +3,7 @@
 		"model":"shop",
 		"price": 160.0,
 		"products": {
-			"stroopwafels": {
+			"Stroopwafels": {
 				"model":"stroopwafel",
 				"price": 1.5,
 				"type" : "consumable",

@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 952930848
+CRC: 3763796605
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b01afe2f9de4855fd35e700801cfbb3b
+    Hash: 9f79011ebdcfd98453c876980c3a080b
   TypeTreeHash:
     serializedVersion: 2
     Hash: f47e5080155a0c3ac2e9ffbbc14e366d
@@ -24,9 +24,9 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/shop.fbx
 - Assets/Materials/Material.004.mat
 - Assets/Materials/Material.001.mat
+- Assets/shop.fbx
 - Assets/Materials/Material.003.mat
 - Assets/Materials/Material.mat
 - Assets/Materials/Material.002.mat
